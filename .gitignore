@@ -3,3 +3,7 @@
 # dependencies
 /node_modules
 .env
+/config/allowedOrigins.js
+/config/corsOptions.js
+/logs
+/middleware
